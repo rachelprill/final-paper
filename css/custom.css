@@ -1,0 +1,46 @@
+/*!
+ * Add all custom styles to this file. Do not modify the other CSS files.
+ */
+
+body{
+  background-color: white;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 210%;}
+
+h2 {
+  font-family: 'Merriweather', serif;;
+  font-size: 180%;}
+
+h3 {
+  font-family: 'Merriweather', serif;}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 150%;}
+
+li {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 150%;}
+
+#top {
+  margin-top: 0%;
+  margin-bottom:0%;
+  margin-left: 20%;
+  margin-right: 20%;}
+
+#work-format {
+  margin-top: 0%;
+  margin-bottom:0%;
+  margin-left: 20%;
+  margin-right: 20%;}
+
+#work-image {
+  height: 80%;
+  width: 80%;}
+
+#work-image1 {
+  height: 100%;
+  width: 100%;}
